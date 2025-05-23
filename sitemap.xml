@@ -2,37 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alexia-gc.github.io/blog-deploy/categories/</loc>
-    <lastmod>2025-05-22T13:00:00-03:00</lastmod>
+    <loc>/posts/first/</loc>
   </url><url>
-    <loc>https://alexia-gc.github.io/blog-deploy/categories/hugo/</loc>
-    <lastmod>2025-05-22T13:00:00-03:00</lastmod>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://alexia-gc.github.io/blog-deploy/tags/hugo/</loc>
-    <lastmod>2025-05-22T13:00:00-03:00</lastmod>
+    <loc>/</loc>
   </url><url>
-    <loc>https://alexia-gc.github.io/blog-deploy/</loc>
-    <lastmod>2025-05-22T13:00:00-03:00</lastmod>
+    <loc>/posts/</loc>
   </url><url>
-    <loc>https://alexia-gc.github.io/blog-deploy/tags/papermod/</loc>
-    <lastmod>2025-05-22T13:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://alexia-gc.github.io/blog-deploy/posts/</loc>
-    <lastmod>2025-05-22T13:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://alexia-gc.github.io/blog-deploy/tags/static-site-generator/</loc>
-    <lastmod>2025-05-22T13:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://alexia-gc.github.io/blog-deploy/tags/</loc>
-    <lastmod>2025-05-22T13:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://alexia-gc.github.io/blog-deploy/posts/hugo-papermod-guide/</loc>
-    <lastmod>2025-05-22T13:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://alexia-gc.github.io/blog-deploy/tags/tutorial/</loc>
-    <lastmod>2025-05-22T13:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://alexia-gc.github.io/blog-deploy/categories/web-development/</loc>
-    <lastmod>2025-05-22T13:00:00-03:00</lastmod>
+    <loc>/tags/</loc>
   </url>
 </urlset>
