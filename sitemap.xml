@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alexia-gc.github.io/blog-deploy/posts/first/</loc>
+    <loc>https://alexia-gc.github.io/lex/posts/first/</loc>
   </url><url>
-    <loc>https://alexia-gc.github.io/blog-deploy/categories/</loc>
+    <loc>https://alexia-gc.github.io/lex/categories/</loc>
   </url><url>
-    <loc>https://alexia-gc.github.io/blog-deploy/</loc>
+    <loc>https://alexia-gc.github.io/lex/</loc>
   </url><url>
-    <loc>https://alexia-gc.github.io/blog-deploy/posts/</loc>
+    <loc>https://alexia-gc.github.io/lex/posts/</loc>
   </url><url>
-    <loc>https://alexia-gc.github.io/blog-deploy/tags/</loc>
+    <loc>https://alexia-gc.github.io/lex/tags/</loc>
   </url>
 </urlset>
