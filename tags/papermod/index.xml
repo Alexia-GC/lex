@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Lex</title>
-    <link>https://alexia-gc.github.io/blog-deploy/</link>
-    <description>Recent content on Lex</description>
+    <title>PaperMod on Lex</title>
+    <link>https://alexia-gc.github.io/blog-deploy/tags/papermod/</link>
+    <description>Recent content in PaperMod on Lex</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 May 2025 13:00:00 -0300</lastBuildDate>
-    <atom:link href="https://alexia-gc.github.io/blog-deploy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alexia-gc.github.io/blog-deploy/tags/papermod/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Ultimate Guide to Starting with Hugo and PaperMod</title>
       <link>https://alexia-gc.github.io/blog-deploy/posts/hugo-papermod-guide/</link>

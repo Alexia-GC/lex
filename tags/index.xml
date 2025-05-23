@@ -6,6 +6,35 @@
     <description>Recent content in Tags on Lex</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 22 May 2025 13:00:00 -0300</lastBuildDate>
     <atom:link href="https://alexia-gc.github.io/blog-deploy/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://alexia-gc.github.io/blog-deploy/tags/hugo/</link>
+      <pubDate>Thu, 22 May 2025 12:00:00 -0300</pubDate>
+      <guid>https://alexia-gc.github.io/blog-deploy/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PaperMod</title>
+      <link>https://alexia-gc.github.io/blog-deploy/tags/papermod/</link>
+      <pubDate>Thu, 22 May 2025 12:00:00 -0300</pubDate>
+      <guid>https://alexia-gc.github.io/blog-deploy/tags/papermod/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Static Site Generator</title>
+      <link>https://alexia-gc.github.io/blog-deploy/tags/static-site-generator/</link>
+      <pubDate>Thu, 22 May 2025 12:00:00 -0300</pubDate>
+      <guid>https://alexia-gc.github.io/blog-deploy/tags/static-site-generator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>https://alexia-gc.github.io/blog-deploy/tags/tutorial/</link>
+      <pubDate>Thu, 22 May 2025 12:00:00 -0300</pubDate>
+      <guid>https://alexia-gc.github.io/blog-deploy/tags/tutorial/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
